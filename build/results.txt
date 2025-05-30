@@ -1,0 +1,126 @@
+100;Greedy Multi-Start (Sequential);5648;26748
+100;Local Search with Mutations (Sequential);5648;493
+100;Greedy Multi-Start (OpenMP);5648;3422
+100;Local Search with Mutations (OpenMP);5648;82
+100;Greedy Multi-Start (CUDA);5920;4602
+100;Local Search with Mutations (CUDA);5902;236
+100;Greedy Multi-Start (Sequential);5725;22699
+100;Local Search with Mutations (Sequential);5725;468
+100;Greedy Multi-Start (OpenMP);5725;3021
+100;Local Search with Mutations (OpenMP);5725;83
+100;Greedy Multi-Start (CUDA);5896;2428
+100;Local Search with Mutations (CUDA);5858;227
+100;Greedy Multi-Start (Sequential);5593;22454
+100;Local Search with Mutations (Sequential);5593;502
+100;Greedy Multi-Start (OpenMP);5593;2985
+100;Local Search with Mutations (OpenMP);5593;82
+100;Greedy Multi-Start (CUDA);5866;2421
+100;Local Search with Mutations (CUDA);5866;229
+100;Greedy Multi-Start (Sequential);5549;22881
+100;Local Search with Mutations (Sequential);5549;447
+100;Greedy Multi-Start (OpenMP);5549;3054
+100;Local Search with Mutations (OpenMP);5549;82
+100;Greedy Multi-Start (CUDA);5690;2403
+100;Local Search with Mutations (CUDA);5690;231
+100;Greedy Multi-Start (Sequential);5743;22500
+100;Local Search with Mutations (Sequential);5724;471
+100;Greedy Multi-Start (OpenMP);5743;3030
+100;Local Search with Mutations (OpenMP);5743;82
+100;Greedy Multi-Start (CUDA);6357;2421
+100;Local Search with Mutations (CUDA);6251;223
+100;Greedy Multi-Start (Sequential);5540;22994
+100;Local Search with Mutations (Sequential);5540;499
+100;Greedy Multi-Start (OpenMP);5540;3063
+100;Local Search with Mutations (OpenMP);5540;82
+100;Greedy Multi-Start (CUDA);5885;2439
+100;Local Search with Mutations (CUDA);5799;219
+100;Greedy Multi-Start (Sequential);5601;23122
+100;Local Search with Mutations (Sequential);5601;459
+100;Greedy Multi-Start (OpenMP);5601;3069
+100;Local Search with Mutations (OpenMP);5601;82
+100;Greedy Multi-Start (CUDA);5818;2429
+100;Local Search with Mutations (CUDA);5758;230
+100;Greedy Multi-Start (Sequential);5586;22709
+100;Local Search with Mutations (Sequential);5586;446
+100;Greedy Multi-Start (OpenMP);5586;3021
+100;Local Search with Mutations (OpenMP);5586;82
+100;Greedy Multi-Start (CUDA);5880;2430
+100;Local Search with Mutations (CUDA);5866;231
+100;Greedy Multi-Start (Sequential);5610;22351
+100;Local Search with Mutations (Sequential);5610;466
+100;Greedy Multi-Start (OpenMP);5610;3030
+100;Local Search with Mutations (OpenMP);5610;82
+100;Greedy Multi-Start (CUDA);5889;2415
+100;Local Search with Mutations (CUDA);5794;243
+100;Greedy Multi-Start (Sequential);5623;22775
+100;Local Search with Mutations (Sequential);5623;436
+100;Greedy Multi-Start (OpenMP);5623;3056
+100;Local Search with Mutations (OpenMP);5623;81
+100;Greedy Multi-Start (CUDA);5847;2407
+100;Local Search with Mutations (CUDA);5728;225
+200;Greedy Multi-Start (Sequential);10653;78300
+200;Local Search with Mutations (Sequential);10650;817
+200;Greedy Multi-Start (OpenMP);10653;11037
+200;Local Search with Mutations (OpenMP);10653;152
+200;Greedy Multi-Start (CUDA);10871;9454
+200;Local Search with Mutations (CUDA);10871;432
+200;Greedy Multi-Start (Sequential);10664;78556
+200;Local Search with Mutations (Sequential);10650;862
+200;Greedy Multi-Start (OpenMP);10664;11017
+200;Local Search with Mutations (OpenMP);10664;152
+200;Greedy Multi-Start (CUDA);11106;8943
+200;Local Search with Mutations (CUDA);10949;407
+200;Greedy Multi-Start (Sequential);10741;77155
+200;Local Search with Mutations (Sequential);10741;814
+200;Greedy Multi-Start (OpenMP);10741;10975
+200;Local Search with Mutations (OpenMP);10741;152
+200;Greedy Multi-Start (CUDA);11130;9046
+200;Local Search with Mutations (CUDA);11087;407
+200;Greedy Multi-Start (Sequential);10626;76984
+200;Local Search with Mutations (Sequential);10626;815
+200;Greedy Multi-Start (OpenMP);10626;10856
+200;Local Search with Mutations (OpenMP);10626;153
+200;Greedy Multi-Start (CUDA);10917;9013
+200;Local Search with Mutations (CUDA);10892;397
+200;Greedy Multi-Start (Sequential);10668;76883
+200;Local Search with Mutations (Sequential);10668;815
+200;Greedy Multi-Start (OpenMP);10668;11044
+200;Local Search with Mutations (OpenMP);10668;152
+200;Greedy Multi-Start (CUDA);10950;9028
+200;Local Search with Mutations (CUDA);10950;399
+200;Greedy Multi-Start (Sequential);10616;76925
+200;Local Search with Mutations (Sequential);10616;798
+200;Greedy Multi-Start (OpenMP);10616;10976
+200;Local Search with Mutations (OpenMP);10616;151
+200;Greedy Multi-Start (CUDA);11197;8963
+200;Local Search with Mutations (CUDA);11030;406
+200;Greedy Multi-Start (Sequential);10648;78017
+200;Local Search with Mutations (Sequential);10648;816
+200;Greedy Multi-Start (OpenMP);10648;11067
+200;Local Search with Mutations (OpenMP);10648;152
+200;Greedy Multi-Start (CUDA);10904;9031
+200;Local Search with Mutations (CUDA);10904;405
+200;Greedy Multi-Start (Sequential);10767;74777
+200;Local Search with Mutations (Sequential);10767;800
+200;Greedy Multi-Start (OpenMP);10767;10843
+200;Local Search with Mutations (OpenMP);10767;153
+200;Greedy Multi-Start (CUDA);11329;8922
+200;Local Search with Mutations (CUDA);11303;396
+200;Greedy Multi-Start (Sequential);10612;78047
+200;Local Search with Mutations (Sequential);10612;862
+200;Greedy Multi-Start (OpenMP);10612;11066
+200;Local Search with Mutations (OpenMP);10612;153
+200;Greedy Multi-Start (CUDA);10930;8894
+200;Local Search with Mutations (CUDA);10930;411
+200;Greedy Multi-Start (Sequential);10630;77998
+200;Local Search with Mutations (Sequential);10630;815
+200;Greedy Multi-Start (OpenMP);10630;11032
+200;Local Search with Mutations (OpenMP);10630;152
+200;Greedy Multi-Start (CUDA);10630;8923
+200;Local Search with Mutations (CUDA);10630;404
+300;Greedy Multi-Start (Sequential);15658;159890
+300;Local Search with Mutations (Sequential);15658;1249
+300;Greedy Multi-Start (OpenMP);15658;23971
+300;Local Search with Mutations (OpenMP);15658;249
+300;Greedy Multi-Start (CUDA);15756;20416
+300;Local Search with Mutations (CUDA);15756;588
